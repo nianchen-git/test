@@ -5,5 +5,6 @@ public class Git {
     private int masterId;
     private int devId2;
     private String masterID2;
+    private String masterID3;
     private String devID3;
 }
